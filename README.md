@@ -4,9 +4,22 @@ A small mod that adds some props to a handful of vanilla vehicles to make them f
 Everything in this mod functions the same as vanilla, with one or two upgrades that don't affect the game's balance whatsoever.
 
 Currently adds:
-Reconfigured supply crates, added props, and a functioning radio for the M1025 (8 variants).
-Reconfigured supply crates, added props, and a functioning radio for the M1025 M2HB (8 variants).
-Reconfigured supply crates, added props, and a functioning radio for the BTR-70 (1 SOV variant, 1 FIA variant).
+- Reconfigured supply crates, added props, and a functioning radio for the M1025 (8 variants).
+- Reconfigured supply crates, added props, and a functioning radio for the M1025 M2HB (8 variants).
+- Reconfigured supply crates, added props, and a functioning radio for the BTR-70 (1 SOV variant, 1 FIA variant).
+
+Planned features:
+- More BTR-70 configurations.
+- M998 configurations.
+- M151 configurations.
+- UAZ-469 configurations.
+- M923 configurations.
+- Ural-4320 configurations.
+- UH-1H configurations (maybe).
+- MI-8T configurations (maybe).
+- UAZ-452A configurations (maybe).
+- S1203 configurations (maybe).
+- S105 configurations (maybe).
 
 The new vehicles will replace the old ones by default, so this should be compatible with any gamemode out of the box.
 
